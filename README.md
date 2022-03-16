@@ -7,11 +7,10 @@
 
 ## I'm a Web developer and an Ex-Pharmacist ❗
 
-- 🧐 Seeking an entry-level position to begin my career in a high-level professional environment.
-- 🌱 I’m currently learning everything 🤣
 - 📄 Certified as a Full Stack web developer
 - 👌 Proficient in Front-End developing (React J.s)
 - ⚡ Building reusable code and libraries for future use
+- 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: Be proficient in Mobile apps developing 
 
 
