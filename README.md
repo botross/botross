@@ -1,9 +1,5 @@
 <h2> Hi there, I'm Botros  👋❤️ </h2>
 
-<br>
-<br>
-<hr>
-
 <h2> Contact with me on </h2>
 
 
