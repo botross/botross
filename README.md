@@ -1,19 +1,6 @@
 <h2> Hi there, I'm Botros  👋❤️ </h2>
 
 <br>
-<hr>
-
-
-
-## I'm a Web developer and an Ex-Pharmacist ❗
-
-- 📄 Certified as a Full Stack web developer
-- 👌 Proficient in Front-End developing (React J.s)
-- ⚡ Building reusable code and libraries for future use
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Be proficient in Mobile apps developing 
-
-
 <br>
 <hr>
 
