@@ -9,8 +9,8 @@
 <br/>
 
 <!-- PROFILE VIEWS & FOLLOWERS BADGES -->
-<img src="https://komarev.com/ghpvc/?username=botrosaziz&label=Profile+Views&color=7c3aed&style=flat-square" />
-<img src="https://img.shields.io/github/followers/botrosaziz?label=Followers&style=flat-square&color=7c3aed" />
+<img src="https://komarev.com/ghpvc/?username=botross&label=Profile+Views&color=7c3aed&style=flat-square" />
+<img src="https://img.shields.io/github/followers/botross?label=Followers&style=flat-square&color=7c3aed" />
 
 </div>
 
@@ -97,13 +97,13 @@ const botros = {
 
 <br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=botrosaziz&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=botross&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&count_private=true" />
 &nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=botrosaziz&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=botross&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" />
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=botrosaziz&theme=midnight-purple&hide_border=true&background=0d1117&ring=a78bfa&fire=c084fc&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=8b949e" />
+<img width="70%" src="https://streak-stats.demolab.com?user=botross&theme=midnight-purple&hide_border=true&background=0d1117&ring=a78bfa&fire=c084fc&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=8b949e" />
 
 </div>
 
@@ -116,7 +116,7 @@ const botros = {
 
 ### 🌊 &nbsp;Contribution Wave
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=botrosaziz&bg_color=0d1117&color=a78bfa&line=7c3aed&point=c084fc&area=true&hide_border=true&area_color=2e1065" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=botross&bg_color=0d1117&color=a78bfa&line=7c3aed&point=c084fc&area=true&hide_border=true&area_color=2e1065" />
 
 </div>
 
@@ -130,9 +130,9 @@ const botros = {
 ### 🐍 &nbsp;Watch My Contributions Get Eaten
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/botrosaziz/botrosaziz/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/botrosaziz/botrosaziz/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/botrosaziz/botrosaziz/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/botross/botross/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/botross/botross/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/botross/botross/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 </div>
@@ -148,11 +148,11 @@ const botros = {
 
 <br/>
 
-<a href="mailto:botrosazizbotros@gmail.com">
+<a href="mailto:botrossbotros@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/in/botrosaziz/" target="_blank">
+<a href="https://www.linkedin.com/in/botross/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
